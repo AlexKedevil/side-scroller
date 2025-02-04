@@ -10,24 +10,8 @@
 *.sln
 *.unitypackage
 
-Library/PackageCache/com.unity.burst/
-
 Packages/*
 !Packages/manifest.json
-
-Temp/
-ProjectSettings/EditorBuildSettings.asset
-ProjectSettings/EditorUserSettings.asset
-
-*.meta
-*.pidb
-*.suo
-*.user
-*.userprefs
-*.ilk
-*.pdb
-*.opendb
-*.VC.db
 
 .vscode/
 .idea/

@@ -6,9 +6,6 @@
 [Bb]uild/
 [Bb]uilds/
 [Oo]bj/
-*.csproj
-*.sln
-*.unitypackage
 
 Packages/*
 !Packages/manifest.json
